@@ -1,3 +1,2 @@
-# Excel Project 
-Excel Data Analyst Project
-This project showcases data analysis using Excel. It includes data cleaning, visualization, and generating insights from raw datasets. Key techniques include pivot tables, charts, and advanced Excel functions for analysis. Perfect for exploring business trends and decision-making.
+SQL Data Analysis Project
+This project demonstrates data analysis using SQL. It involves querying, filtering, and aggregating data from a relational database to uncover actionable insights. Key highlights include creating complex joins, using subqueries, and optimizing queries for efficient analysis. Perfect for understanding database-driven decision-making.
